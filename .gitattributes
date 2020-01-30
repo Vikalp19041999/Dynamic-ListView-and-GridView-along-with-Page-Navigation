@@ -1,2 +1,1 @@
-*.java linguist-detectable=false
-*.makefile linguist-detectable=false
+*.dart linguist-detectable=true
